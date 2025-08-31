@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A passionate Devsecops Engineer</h3>
+<h3 align="center">DevOps Engineer with 3 years of experience focused on automating deployment processes and improving system reliability in cloud environments. Skilled in building CI/CD pipelines, managing infrastructure with code, and working with containerized applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhy&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhy" /> </p>
 
 - 🔭 I’m currently working on **Devsecops**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mohammadhy](https://github.com/mohammadhy)
 
 - 📫 How to reach me **hassan.yosefi158@gmail.com**
 
